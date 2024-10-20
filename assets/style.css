@@ -3,7 +3,7 @@
     margin: 1px;
     padding: 1px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: bisque;
+    background-color: antiquewhite;
   }
 
 .header {
@@ -11,36 +11,31 @@
     font-size: 25px;
     align-items: center;
     border: 3px solid blueviolet;
-    padding-top: 35px;
+    padding-top: 15px;
     padding-bottom: 20px;
     flex-direction: column;
-    background-color: aliceblue;
-}
-
-h2 {
-  background-color: aliceblue;
-}
-
-nav {
-  background-color: aliceblue;
+    background-color:aliceblue;
 }
 
 .boxone {
     font-size: 15px;
-    margin: 25px;
     background-color: aliceblue;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .boxtwo {
   font-size: 15px;
-  margin: 25px;
   background-color: aliceblue;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .boxthree {
   font-size: 15px;
-  margin: 25px;
   background-color: aliceblue;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .reverse {
@@ -54,5 +49,12 @@ nav {
   margin-right: auto;
   width: 15%;
   padding: 10px;
+}
+
+.bkgd {
+  background-position: center;
+  width: 85%;
+  height: 125px;
+  margin: 25px;
 }
 
